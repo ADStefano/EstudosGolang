@@ -42,6 +42,13 @@ func main()  {
 	fmt.Println(soma)
 	fmt.Println(multiplicacao)
 
+	for b <= 5{
+		fmt.Println(b)
+		b++
+	}
+
+
+
 	
 	
 }
